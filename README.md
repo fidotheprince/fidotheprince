@@ -1,4 +1,3 @@
-# Hello I'm 🤓 Alvaro 🤓 my friends call me 🐕 Fido 🐕  
 <img src="images/bannerFour.jpg" style="max-width: 100%;">
 
 
