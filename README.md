@@ -1,6 +1,5 @@
 <img src="images/bannerFour.jpg" style="max-width: 100%;">
 
-## “Mastery is not a function of genius or talent. It is a function of time and intense focus applied to a particular field of knowledge.” # - Robert Greene
 
 
 <!--
