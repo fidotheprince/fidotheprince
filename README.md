@@ -7,7 +7,9 @@
 
 🧠 Leet Code got me like ... 
 
-<img src="https://giphy.com/gifs/the-matrix-keanu-reeves-andy-wachowski-6K4F2qvWM1LQQ">
+![Alt Text](https://media.giphy.com/media/iLhlW2bctT1f2/giphy.gif)
+
+
 
 <!--
 **fidotheprince/fidotheprince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
