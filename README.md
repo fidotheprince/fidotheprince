@@ -1,10 +1,9 @@
 <img src="images/bannerFour.jpg" style="max-width: 100%;">
 
 #### "Chance favors only the prepared mind " - Robert Greene 
+✌️ Welcome! Come check out my work : [Click me!](https://www.castroportfolio.com/home.html)
 
-Welcome! Come check out my work : [Click me!](https://www.castroportfolio.com/home.html)
-
-For inquiries : <alvarocastrocid1@gmail.com>
+🤝 For inquiries : <alvarocastrocid1@gmail.com>
 
 
 
