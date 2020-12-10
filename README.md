@@ -1,6 +1,6 @@
 <img src="images/bannerFour.jpg" style="max-width: 100%;">
 
-<H5 style="text-align: center;"> "Chance favors only the prepared mind " - Robert Greene </h5>
+#### "Chance favors only the prepared mind " - Robert Greene 
 
 Welcome! Come check out my work : [Click me!](https://www.castroportfolio.com/home.html)
 
