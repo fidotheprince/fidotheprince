@@ -13,7 +13,7 @@
         </a>
     </div>
     <br>
-    <p align="center">🤝 For direct inquiries : alvarocastrocid1@gmail.com </p>
+    <p align="center">🤝 For direct inquiries 👉 ✉️ alvarocastrocid1@gmail.com </p>
 </p>
 <p align="center">
     Me after finishing something I started...
