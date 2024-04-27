@@ -1,6 +1,6 @@
 <img src="images/alvaro-castro-cid-banner.jpeg" style="max-width: 100%;">
 <p align="center"> 
-    <h2>Welcome! My name is Alvaro.</h2>
+    <h2 alig="center">Welcome! My name is Alvaro.</h2>
     <p align="center">
         I like to write code, lead through servitude, and produce results for my teams.
     </p>
