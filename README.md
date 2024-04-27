@@ -1,8 +1,8 @@
 <img src="images/alvaro-castro-cid-banner.jpeg" style="max-width: 100%;">
 <p align="center"> 
-    <h2 align="center">Welcome! My name is Alvaro.</h2>
+    <h2 align="center"> 👋 Welcome! My name is Alvaro. 👋 </h2>
     <p align="center">
-        👋 I like to write code, lead through servitude, and produce results for my teams. 👋
+         I like to write code, lead through servitude, and produce results for my teams. 
     </p>
     <div align="center">
         <a href="https://www.linkedin.com/in/alvaro-castro-cid-1160081a5/">
