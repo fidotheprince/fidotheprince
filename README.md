@@ -1,7 +1,7 @@
 <img src="images/alvaro-castro-cid-banner.jpeg" style="max-width: 100%;">
 <p align="center"> 
     <p align="center">
-        Welcome! My name is Alvaro, just in case you didn't see the banner 😎. I like to write code, lead through servitude, and produce results for my teams.
+        Welcome! My name is Alvaro. I like to write code, lead through servitude, and produce results for my teams.
     </p>
     <div align="center">
         <a href="https://www.linkedin.com/in/alvaro-castro-cid-1160081a5/">
@@ -18,5 +18,5 @@
     Me after finishing something I started...
 </p>
 <p align="center">
-  <img width="500" src="images/giphy.gif">
+  <img width="250" src="images/giphy.gif">
 </p>
