@@ -1,6 +1,13 @@
 <img src="images/alvaro-castro-cid-banner.jpg" style="max-width: 100%;">
-<img alt="Static Badge" src="https://img.shields.io/badge/connect_with_me-blue?style=for-the-badge&logo=linkedIn&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falvaro-castro-cid-1160081a5%2F">
-<img alt="Static Badge" src="https://img.shields.io/badge/checkout_my_work-orange?style=for-the-badge&link=https%3A%2F%2Fwww.castroportfolio.com%2Fhome.html">
+
+<p align="center"> 
+    <a>
+        <img alt="Static Badge" src="https://img.shields.io/badge/connect_with_me-blue?style=for-the-badge&logo=linkedIn&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falvaro-castro-cid-1160081a5%2F">
+    </a>
+    <a>
+        <img alt="Static Badge" src="https://img.shields.io/badge/checkout_my_work-orange?style=for-the-badge&link=https%3A%2F%2Fwww.castroportfolio.com%2Fhome.html">
+    </a>
+</p>
 
 Welcome! My name is Alvaro, just in case you didn't see the banner 😎. 
 
