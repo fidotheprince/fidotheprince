@@ -14,9 +14,9 @@
     <br>
     <p align="center">🤝 For direct inquiries : alvarocastrocid1@gmail.com </p>
 </p>
-
-Me after finishing something I started...
-
 <p align="center">
-  <img width="460" height="300" src="images/giphy.gif">
+    Me after finishing something I started...
+</p>
+<p align="center">
+  <img width="500" src="images/giphy.gif">
 </p>
