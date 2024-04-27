@@ -12,4 +12,4 @@
 
 Me after finishing something I started...
 
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3dycHBlaG93cTFzYWh3dTFudWZ5Nm8weW5maTBxNXkxZXlyejB0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkPpnkyeC2wYmCqHu5/giphy.gif)
+![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3dycHBlaG93cTFzYWh3dTFudWZ5Nm8weW5maTBxNXkxZXlyejB0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkPpnkyeC2wYmCqHu5/giphy.gif)
