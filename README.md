@@ -7,7 +7,9 @@
     <a href="">
         <img alt="Static Badge" src="https://img.shields.io/badge/checkout_my_work-orange?style=for-the-badge&link=https%3A%2F%2Fwww.castroportfolio.com%2Fhome.html">
     </a>
-    <p> 🤝 For inquiries : <alvarocastrocid1@gmail.com> </p>
+    <p>Me after finishing something I started...</p>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3dycHBlaG93cTFzYWh3dTFudWZ5Nm8weW5maTBxNXkxZXlyejB0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkPpnkyeC2wYmCqHu5/giphy.gif" width="30px">
+    <p> 🤝 For direct inqueries : alvarocastrocid1@gmail.com </p>
 </p>
 <!--
 **fidotheprince/fidotheprince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
