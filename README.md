@@ -1,13 +1,12 @@
 <img src="images/alvaro-banner.jpg" style="max-width: 100%;">
 
+![Static Badge](https://img.shields.io/badge/Connect-blue?style=social&logo=LinkedIN&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falvaro-castro-cid-1160081a5%2F)
+
 #### "Chance favors only the prepared mind " - Robert Greene 
 ✌️ Welcome! Come check out my work : [Click me!](https://www.castroportfolio.com/home.html)
 
 🤝 For inquiries : <alvarocastrocid1@gmail.com>
-
-🧠 Leet Code got me like ... 
-
-![Alt Text](https://media.giphy.com/media/iLhlW2bctT1f2/giphy.gif)
+\
 
 
 
